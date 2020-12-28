@@ -334,17 +334,33 @@ img {
   margin-top:5rem;
 }
 
-.posts-writing, .posts-reading, .posts-links {
+.posts {
   margin-top:5rem;
 }
 
 .newday {
-  margin-top:1rem;
+  margin-top:2.5rem;
+  padding-left:20px;
+}
+
+.entry {
+  margin-top:0rem;
   padding-left:20px;
   border-left-style: solid;
   border-width: 4px;
   border-color: #8a94ef;
 }
+
+.entry-date {
+  font-size: 0.65rem !important;
+  font-family: Verdana, sans-serif !important;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+font-family: Verdana, sans-serif; color: #999999; text-transform: uppercase;"
 
 
 code {
